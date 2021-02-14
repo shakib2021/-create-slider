@@ -21,7 +21,7 @@ if(event.key=="Enter"){
 
 // selected image 
 let sliders = [];
-const KEY = '15674931-a9d714b6e9d654524df198e00&q'; 
+const KEY = '20271019-977668d549b118d876fc579f4'; 
 
 // If this key doesn't work
 // Find the name in the url and go to their website
